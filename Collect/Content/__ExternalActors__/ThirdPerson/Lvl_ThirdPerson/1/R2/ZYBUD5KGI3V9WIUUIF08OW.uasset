@@ -1,0 +1,29 @@
+8d989ff2a\\Editor\\Brushes\\GameObjectBrush\\GameObjectBrush.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526720142, "dur":12100, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.2d.spriteshape@1d246726c231\\Editor\\SpriteShapeHandleUtility.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526732243, "dur":2425, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.2d.spriteshape@1d246726c231\\Editor\\SpriteShapeEditorUtility.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526734669, "dur":1973, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.2d.spriteshape@1d246726c231\\Editor\\SpriteShapeEditorTool.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526736676, "dur":2104, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.2d.spriteshape@1d246726c231\\Editor\\SpriteShapeEditorAnalytics.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526738817, "dur":1995, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.2d.spriteshape@1d246726c231\\Editor\\SpriteShapeControllerEditor.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526740843, "dur":2114, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.2d.spriteshape@1d246726c231\\Editor\\SpriteShapeAnalytics.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526602119, "dur":140882, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1769632526743002, "dur":13907, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\treeview\\Manipulator.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526756909, "dur":8401, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\treeview\\ManipulationsTracks.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526765310, "dur":9692, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\treeview\\ManipulationsTimeline.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526775003, "dur":12519, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\treeview\\ManipulationsClips.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526787597, "dur":12226, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\treeview\\ItemGui\\TimelineMarkerClusterGUI.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526799882, "dur":12145, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\treeview\\ItemGui\\TimelineClipGUI.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526812088, "dur":1510, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\treeview\\IPropertyKeyDataSource.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526813598, "dur":1145, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\treeview\\Drawers\\TrackItemsDrawer.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526814744, "dur":2149, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\treeview\\Drawers\\TrackDrawer.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526816938, "dur":18283, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\treeview\\Drawers\\Layers\\ItemsLayer.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526835222, "dur":1677, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\treeview\\Drawers\\Layers\\ClipsLayer.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526836899, "dur":8374, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\treeview\\Drawers\\InfiniteTrackDrawer.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526845274, "dur":1642, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\treeview\\Drawers\\ClipDrawer.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526846950, "dur":2299, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\treeview\\Control.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526743001, "dur":106252, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1769632526849448, "dur":1259, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.cinemachine@5342685532bb\\Runtime\\Deprecated\\CinemachinePathBase.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526850774, "dur":2223, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.cinemachine@5342685532bb\\Runtime\\Deprecated\\CinemachineInputProvider.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526852997, "dur":1559, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.cinemachine@5342685532bb\\Runtime\\Deprecated\\CinemachineInputAxisDriver.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526854593, "dur":1403, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.cinemachine@5342685532bb\\Runtime\\Deprecated\\CinemachineFreeLook.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526856026, "dur":12220, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.cinemachine@5342685532bb\\Runtime\\Deprecated\\CinemachineDoNotUpgrade.cs" }}
+,{ "pid":12345, "tid":9, "ts":1769632526868247, "dur":2039, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.cinemachine@5342685532bb\\Runtime\\Deprecated\

@@ -1,0 +1,29 @@
+s": { "detail":"Library\\PackageCache\\com.unity.cinemachine@5342685532bb\\Editor\\Editors\\CinemachineExtensionEditor.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526741664, "dur":3949, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.cinemachine@5342685532bb\\Editor\\Editors\\CinemachineDeoccluderEditor.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526745614, "dur":2194, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.cinemachine@5342685532bb\\Editor\\Editors\\CinemachineConfiner3DEditor.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526747809, "dur":17368, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.cinemachine@5342685532bb\\Editor\\Editors\\CinemachineConfiner2DEditor.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526765178, "dur":9609, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.cinemachine@5342685532bb\\Editor\\Editors\\CinemachineComponentBaseEditor.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526774851, "dur":12380, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.cinemachine@5342685532bb\\Editor\\Editors\\CinemachineCameraManagerEventsEditor.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526787231, "dur":11824, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.cinemachine@5342685532bb\\Editor\\Editors\\CinemachineCameraEditor.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526593036, "dur":206020, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1769632526799182, "dur":12017, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\Extensions\\AnimationTrackExtensions.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526811206, "dur":1986, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\Extensions\\AnimatedParameterExtensions.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526813192, "dur":2135, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\DirectorStyles.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526815327, "dur":13475, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\DirectorNamedColor.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526828803, "dur":1728, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\CustomEditors\\TrackEditor.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526830612, "dur":12629, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\CustomEditors\\MarkerEditor.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526843241, "dur":1755, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\CustomEditors\\CustomTimelineEditorCache.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526845041, "dur":2177, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\CurveEditUtility.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526847218, "dur":2184, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\ControlTrack\\ControlPlayableAssetEditor.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526849403, "dur":1735, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\Audio\\AudioTrackInspector.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526851162, "dur":1968, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\Audio\\AudioPlayableAssetEditor.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526853162, "dur":1133, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\Attributes\\TimelineShortcutAttribute.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526854296, "dur":2114, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.timeline@6b9e48457ddb\\Editor\\Attributes\\ShortcutAttribute.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526799056, "dur":57354, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1769632526856411, "dur":35124, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.render-pipelines.universal@4976252adeb8\\Editor\\ShaderGUI\\ParticleGUI.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526891536, "dur":31889, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.render-pipelines.universal@4976252adeb8\\Editor\\ShaderGUI\\BaseShaderGUI.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526923426, "dur":2299, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.render-pipelines.universal@4976252adeb8\\Editor\\ShaderGraph\\UniversalStructs.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526925725, "dur":2157, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.render-pipelines.universal@4976252adeb8\\Editor\\ShaderGraph\\UniversalStructFields.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526927882, "dur":10365, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.render-pipelines.universal@4976252adeb8\\Editor\\ShaderGraph\\UniversalProperties.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526938248, "dur":15710, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.render-pipelines.universal@4976252adeb8\\Editor\\ShaderGraph\\UniversalMetadata.cs" }}
+,{ "pid":12345, "tid":8, "ts":176963

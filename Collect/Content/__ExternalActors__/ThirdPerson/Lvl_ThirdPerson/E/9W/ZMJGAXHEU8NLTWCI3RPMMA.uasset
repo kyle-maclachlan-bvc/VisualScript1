@@ -1,0 +1,29 @@
+t.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526989755, "dur":2273, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.render-pipelines.universal@4976252adeb8\\Editor\\ShaderGraph\\Nodes\\UniversalSampleBufferNode.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526992029, "dur":2269, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.render-pipelines.universal@4976252adeb8\\Editor\\ShaderGraph\\Includes\\DecalMeshBiasTypeEnum.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526994299, "dur":2410, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.render-pipelines.universal@4976252adeb8\\Editor\\ShaderGraph\\AssetCallbacks\\CreateUnlitShaderGraph.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526996709, "dur":2361, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.render-pipelines.universal@4976252adeb8\\Editor\\ShaderGraph\\AssetCallbacks\\CreateSixWayShaderGraph.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526856411, "dur":142659, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1769632526999071, "dur":3892, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.shadergraph@cd9db05bbc12\\Editor\\Drawing\\Views\\PropertyNodeView.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527002964, "dur":7286, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.shadergraph@cd9db05bbc12\\Editor\\Drawing\\Views\\PreviewSceneResources.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527010250, "dur":2526, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.shadergraph@cd9db05bbc12\\Editor\\Drawing\\Views\\PortInputView.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527012777, "dur":1832, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.shadergraph@cd9db05bbc12\\Editor\\Drawing\\Views\\NodeSettingsView.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527014610, "dur":2015, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.shadergraph@cd9db05bbc12\\Editor\\Drawing\\Views\\MaterialNodeView.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527016625, "dur":2419, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.shadergraph@cd9db05bbc12\\Editor\\Drawing\\Views\\MaterialGraphView.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527019044, "dur":2179, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.shadergraph@cd9db05bbc12\\Editor\\Drawing\\Views\\IShaderNodeView.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527021223, "dur":2008, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.shadergraph@cd9db05bbc12\\Editor\\Drawing\\Views\\IdentifierField.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527023236, "dur":2190, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.shadergraph@cd9db05bbc12\\Editor\\Drawing\\Views\\HlslFunctionView.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527025427, "dur":2158, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.shadergraph@cd9db05bbc12\\Editor\\Drawing\\Views\\HelpBoxRow.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527027585, "dur":2547, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.shadergraph@cd9db05bbc12\\Editor\\Drawing\\Views\\GraphSubWindow.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527030133, "dur":2791, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.shadergraph@cd9db05bbc12\\Editor\\Drawing\\Views\\GraphEditorView.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527032925, "dur":2598, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.shadergraph@cd9db05bbc12\\Editor\\Drawing\\Views\\GradientEdge.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527035745, "dur":8181, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.shadergraph@cd9db05bbc12\\Editor\\Drawing\\ViewModels\\BlackboardViewModel.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527043969, "dur":2396, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.shadergraph@cd9db05bbc12\\Editor\\Drawing\\SearchWindowProvider.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632526999071, "dur":47294, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1769632527046366, "dur":4025, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.2d.animation@34e0443c58ed\\IK\\Runtime\\FabrikSolver2D.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527050392, "dur":9453, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.2d.animation@34e0443c58ed\\IK\\Runtime\\Culling\\SpriteSkinVisibilityCullingStrategy.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527059846, "dur":15261, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.2d.animation@34e0443c58ed\\IK\\Runtime\\Culling\\CullingManager.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527075108, "dur":16972, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.2d.animation@34e0443c58ed\\IK\\Runtime\\Culling\\BaseCullingStrategy.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527092081, "dur":2806, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.2d.animation@34e0443c58ed\\IK\\Runtime\\Culling\\AlwaysUpdateCullingStrategy.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527094887, "dur":14966, "ph":"X", "name": "File",  "args": { "detail":"Library\\PackageCache\\com.unity.2d.animation@34e0443c58ed\\IK\\Runtime\\CCDSolver2D.cs" }}
+,{ "pid":12345, "tid":8, "ts":1769632527109887, "dur":2872, "ph":"X"
